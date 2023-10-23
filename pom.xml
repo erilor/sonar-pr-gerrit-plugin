@@ -34,7 +34,7 @@
             <groupId>org.sonarsource.api.plugin</groupId>
             <artifactId>sonar-plugin-api</artifactId>
             <!-- minimal version of SonarQube to support. -->
-            <version>10.1.0.809</version>
+            <version>10.2.0.1908</version>
             <scope>provided</scope>
         </dependency>
 
